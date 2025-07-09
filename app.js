@@ -3,7 +3,7 @@ import jsPDF from "jspdf";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Replace with your actual Gemini API key here
-const GEMINI_API_KEY = "AIzaSyCbGgtz8ManU8lv62_9tPys4-n3-f5CJhY";
+const GEMINI_API_KEY = "YOUR API KEY";
 
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
 
